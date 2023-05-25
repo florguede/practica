@@ -1,0 +1,1 @@
+let amigos = ['Coco', 'Pablito', 'Sus', 'Franco'];
