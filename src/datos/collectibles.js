@@ -14,6 +14,10 @@
     {
       "rodado": 27,
       "marca": "pop"
-  }
+  },
+  {
+    "rodado": 26,
+    "marca": "canondale"
+}
 
 ]
